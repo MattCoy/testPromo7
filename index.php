@@ -4,7 +4,8 @@
 	<title></title>
 </head>
 <body>
-	Bonjour V2
+	Bonjour V3
 	<h1>j'ai rajouté un titre !</h1>
+	<p>et un paragraphe</p>
 </body>
 </html>
