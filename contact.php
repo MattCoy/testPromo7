@@ -11,6 +11,12 @@
 	if(isset($_POST['message'])){
 		echo 'message envoyé';
 	}
+	
+	//ajout 
+	echo'kljhlkjgh';
+
+	echo'lkjhglkjg';
+
 	?>
 	<form method="post">
 		<input type="text" name="message">
