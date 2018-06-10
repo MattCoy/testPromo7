@@ -8,9 +8,13 @@
 	<?php 
 	echo date('d/m/Y');
 	
-	if(isset($_POST['message'])){
-		echo 'message envoyé';
-	}
+	//ajout 
+	echo'kljhlkjgh';
+
+	echo'lkjhglkjg';
+
+	echo 'okljhoih';
+
 	?>
 </body>
 </html>
